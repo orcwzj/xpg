@@ -252,9 +252,9 @@
     "y": 400
   },
   "shield-rectangle-white": {
-    "height": 40,
+    "height": 48,
     "pixelRatio": 2,
-    "width": 40,
+    "width": 48,
     "x": 702,
     "y": 0
   },
