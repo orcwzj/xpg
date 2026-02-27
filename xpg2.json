@@ -45,8 +45,8 @@
     "height": 78,
     "pixelRatio": 2,
     "width": 78,
-    "x": 546,
-    "y": 80
+    "x": 936,
+    "y": 0
   },
   "camping": {
     "height": 80,
@@ -150,8 +150,8 @@
     "height": 78,
     "pixelRatio": 2,
     "width": 78,
-    "x": 546,
-    "y": 158
+    "x": 936,
+    "y": 78
   },
   "gym": {
     "height": 80,
@@ -228,7 +228,7 @@
     "pixelRatio": 2,
     "width": 78,
     "x": 546,
-    "y": 236
+    "y": 80
   },
   "marker_transit": {
     "height": 80,
@@ -311,8 +311,8 @@
     "height": 78,
     "pixelRatio": 2,
     "width": 78,
-    "x": 546,
-    "y": 314
+    "x": 624,
+    "y": 80
   },
   "place-of-worship": {
     "height": 80,
@@ -346,14 +346,21 @@
     "height": 78,
     "pixelRatio": 2,
     "width": 78,
-    "x": 546,
-    "y": 392
+    "x": 702,
+    "y": 80
+  },
+  "shield-rectangle-white": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 858,
+    "y": 80
   },
   "shopping": {
     "height": 78,
     "pixelRatio": 2,
     "width": 78,
-    "x": 624,
+    "x": 780,
     "y": 80
   },
   "winery": {
@@ -368,13 +375,6 @@
     "pixelRatio": 2,
     "width": 78,
     "x": 858,
-    "y": 0
-  },
-  "未命名 ": {
-    "height": 80,
-    "pixelRatio": 2,
-    "width": 78,
-    "x": 936,
     "y": 0
   }
 }
