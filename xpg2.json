@@ -356,6 +356,13 @@
     "x": 858,
     "y": 80
   },
+  "shield-rectangle-white-long": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 858,
+    "y": 128
+  },
   "shopping": {
     "height": 78,
     "pixelRatio": 2,
