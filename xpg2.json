@@ -426,6 +426,13 @@
     "x": 780,
     "y": 208
   },
+  "shield_gb_hwy1": {
+    "height": 40,
+    "pixelRatio": 2,
+    "width": 40,
+    "x": 624,
+    "y": 238
+  },
   "shopping": {
     "height": 78,
     "pixelRatio": 2,
