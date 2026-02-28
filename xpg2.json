@@ -90,6 +90,34 @@
     "x": 78,
     "y": 400
   },
+  "citydot": {
+    "height": 16,
+    "pixelRatio": 2,
+    "width": 16,
+    "x": 828,
+    "y": 212
+  },
+  "citydot-open": {
+    "height": 28,
+    "pixelRatio": 2,
+    "width": 28,
+    "x": 828,
+    "y": 160
+  },
+  "citydot-open_lowrank": {
+    "height": 24,
+    "pixelRatio": 2,
+    "width": 24,
+    "x": 828,
+    "y": 188
+  },
+  "citydot_lowrank": {
+    "height": 14,
+    "pixelRatio": 2,
+    "width": 14,
+    "x": 844,
+    "y": 212
+  },
   "cocktail": {
     "height": 80,
     "pixelRatio": 2,
