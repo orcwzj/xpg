@@ -90,6 +90,34 @@
     "x": 78,
     "y": 400
   },
+  "citydot": {
+    "height": 32,
+    "pixelRatio": 2,
+    "width": 32,
+    "x": 720,
+    "y": 238
+  },
+  "citydot-open": {
+    "height": 56,
+    "pixelRatio": 2,
+    "width": 56,
+    "x": 780,
+    "y": 160
+  },
+  "citydot-open_lowrank": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 780,
+    "y": 216
+  },
+  "citydot_lowrank": {
+    "height": 28,
+    "pixelRatio": 2,
+    "width": 28,
+    "x": 752,
+    "y": 238
+  },
   "cocktail": {
     "height": 80,
     "pixelRatio": 2,
@@ -388,15 +416,15 @@
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 780,
-    "y": 160
+    "x": 624,
+    "y": 238
   },
   "shield-rectangle-white-long": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 780,
-    "y": 208
+    "x": 672,
+    "y": 238
   },
   "shopping": {
     "height": 78,
